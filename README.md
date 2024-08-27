@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M3lidr
 - 👀 I’m interested in compter science, computer engineering, AI, and IT in general.
-- 🌱 I’m currently learning the basics as I am a beginner in highschool, and right now I am taking Udemy's DSA course.
+- 🌱 I’m currently a sophomore at NYUAD majoring in Computer Science and Mathematics.
 - 💞️ I’m looking to collaborate on any project that I caan learn from.
 - 📫 muhammadali.aldribi@gmail.com
 
