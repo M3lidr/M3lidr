@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M3lidr
-- 👀 I’m interested in compter science, computer engineering, AI, and computer Vision.
-- 🌱 I’m currently a sophomore at NYUAD majoring in Computer Science and Mathematics.
+- 👀 I’m interested in compter science, computer engineering, AI, and computer Vision, specifically AI in Healthcare.
+- 🌱 I’m currently a senior at NYUAD majoring in Computer Science and minoring in Applied Mathematics, graduating January 2027.
 - 💞️ I’m looking to collaborate on any project that I can learn from.
 - 📫 muhammadali.aldribi@gmail.com
 
